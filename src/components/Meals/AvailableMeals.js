@@ -7,7 +7,7 @@ const DUMMY_MEALS = [
   {
     id: 'm1',
     name: 'Sushi',
-    description: 'Finest fish and veggiessgit branch -M main',
+    description: 'Finest fish',
     price: 22.99,
   },
   {
